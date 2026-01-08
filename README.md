@@ -1,25 +1,28 @@
 # 👋 Hi, I'm Srisowmya Narne  
-**Data Science | Python | Machine Learning | Analytics**
 
-🔗 [GitHub](https://github.com/Narnesowmya) | 
+**Aspiring Data Analyst | AI & ML Engineer | Python Developer**
+
+🌐 Portfolio: https://narnesowmya.github.io  
 📧 Email: srisowmyanarne@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/narne-sri-sowmya-1ab7b0260  
 
 ---
 
 ## 🌱 About Me
-I’m a **Data Science enthusiast & Python developer** passionate about turning data into insights and building practical, real-world projects.
+I’m a B.Tech student specializing in **Computer Science (AI & ML)** with a strong interest in **data analytics and machine learning**.  
+I enjoy working with real-world datasets, building models, and turning data into meaningful insights.
 
 - 📊 Interested in **Data Analysis, Machine Learning & AI**
-- 🐍 Strong in **Python & Data Libraries**
-- 💡 Love solving problems using data
-- 🚀 Continuously learning & building projects
+- 🐍 Strong in **Python & data libraries**
+- 💡 Enjoy problem-solving using data
+- 🚀 Continuously learning and building projects
 
 ---
 
 ## 🧠 Currently Learning
-- Machine Learning . 
+- Machine Learning algorithms  
 - Data Analytics (SQL, Python, Power BI)  
-- Model deployment using **Streamlit**  
+- Model deployment using **Streamlit**
 
 ---
 
@@ -30,46 +33,47 @@ I’m a **Data Science enthusiast & Python developer** passionate about turning 
 - SQL  
 - Git & GitHub  
 
-### 📊 Data Science & ML
+### 📊 Data Science & Machine Learning
 - Pandas  
 - NumPy  
-- Scikit-Learn  
+- Scikit-learn  
 - Matplotlib  
 - Seaborn  
 
 ### 🌐 Deployment & Apps
 - Streamlit  
-- GitHub  
+- GitHub Pages  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🩺 Breast Cancer Prediction (ML + Streamlit)
-🔹 Machine Learning model to predict breast cancer  
-🔹 End-to-end pipeline: data preprocessing → model → web app  
-🔹 Tech: Python, Scikit-Learn, Streamlit  
+- Built a machine learning model to predict breast cancer  
+- Implemented an end-to-end pipeline: data preprocessing → model training → web app  
+- Tech stack: **Python, Scikit-learn, Streamlit**
 
-👉 Repo: https://github.com/Narnesowmya/Breast-cancer-predic-using-Steamlit
+🔗 Repository:  
+https://github.com/Narnesowmya/Breast-cancer-predic-using-Steamlit  
 
 *(More projects coming soon 🚀)*
 
 ---
 
-## 📈 GitHub Stats
-![Sowmya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narnesowmya&show_icons=true&theme=tokyonight)
+## 🌐 Portfolio
+🔗 Visit my portfolio to see my work and projects:  
+👉 **https://narnesowmya.github.io**
 
 ---
 
-## 📫 Let's Connect!
-I'm open to:
+## 📫 Let’s Connect!
+I’m open to:
 - 🤝 Data Science & ML collaborations  
 - 📊 Analytics projects  
-- 📚 Learning together  
+- 📚 Learning and growing together  
 
 📧 Email: srisowmyanarne@gmail.com  
-linkedIn : www.linkedin.com/in/narne-sri-sowmya-1ab7b0260
-
+🔗 LinkedIn: https://www.linkedin.com/in/narne-sri-sowmya-1ab7b0260  
 
 <!--
 **Narnesowmya/Narnesowmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
