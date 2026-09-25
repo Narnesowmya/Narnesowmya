@@ -2,7 +2,7 @@
 
 **Aspiring Data Analyst | AI & ML Engineer | Python Developer**
 
-🌐 Portfolio: https://narnesowmya.github.io  
+
 📧 Email: srisowmyanarne@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/narne-sri-sowmya-1ab7b0260  
 
