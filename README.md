@@ -60,11 +60,6 @@ https://github.com/Narnesowmya/Breast-cancer-predic-using-Steamlit
 
 ---
 
-## 🌐 Portfolio
-🔗 Visit my portfolio to see my work and projects:  
-👉 **https://narnesowmya.github.io**
-
----
 
 ## 📫 Let’s Connect!
 I’m open to:
